@@ -1,3 +1,6 @@
+# Archival notice
+Archived as a better method has been figured out and is apart of [ps4-module-loader](https://github.com/SocraticBliss/ps4_module_loader) now
+
 # IDA PS4 Helper
 
 This is a helper plugin intended for [ps4-module-loader](https://github.com/SocraticBliss/ps4_module_loader)
